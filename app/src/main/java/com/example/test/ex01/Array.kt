@@ -8,7 +8,7 @@ fun main() {
 
     println(
         """
-        array size : ${data1.size} 
+        array size : ${data1.size}  
         array data : ${data1[0]}, ${data1[1]}, ${data1.get(2)}
     """
     )
